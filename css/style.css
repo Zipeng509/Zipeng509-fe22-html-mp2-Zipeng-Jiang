@@ -65,11 +65,11 @@ a:last-child {
   grid-column: 1/4;
   grid-row: 1/3;
   background-color: black;
-  background-image: url(/images/ice\ logga\ utan\ bakgrund.png);
+  background-image: url(../images/ice\ logga\ utan\ bakgrund.png);
   background-position: center;
   background-repeat: no-repeat;
-  width: 100vw;
-  height: 100vh;
+  width: 90vw;
+  height: 90vh;
 }
 
 .bild1 {
@@ -269,7 +269,7 @@ h2 {
 }
 
 .boka-bord-html {
-  background-image: url(/images/bar-background.jpeg);
+  background-image: url(../images/bar-background.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   width: 100vw;
